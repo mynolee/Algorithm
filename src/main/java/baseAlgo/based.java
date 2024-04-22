@@ -1,2 +1,5 @@
-package baseAlgo;public class based {
+package baseAlgo;
+
+public class based {
 }
+dfdfdfd
