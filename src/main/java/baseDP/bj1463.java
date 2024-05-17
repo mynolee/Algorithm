@@ -50,6 +50,7 @@ public class bj1463 {
 
 
 
+
         /*
         static int result(int x,int count){
         if(x <2)
