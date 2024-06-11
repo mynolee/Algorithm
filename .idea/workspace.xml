@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2755167a-9662-452d-9896-325b4571b41a" name="Changes" comment="" />
+    <list default="true" id="2755167a-9662-452d-9896-325b4571b41a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/baseDC/bj11729.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
