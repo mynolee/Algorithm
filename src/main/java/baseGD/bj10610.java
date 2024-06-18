@@ -21,8 +21,6 @@ public class bj10610 {
             total+=tNum;
         }
 
-        // 0이 존재하지 않으면 30 배수 조차도 될 수 없다.
-        // 각 자리수의 총 합이 3의 배수가 아니면 종료해야한다.
         if(!str.contains("0") || total % 3 != 0) {
             System.out.println("-1");
             return;
