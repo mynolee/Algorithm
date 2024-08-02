@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2755167a-9662-452d-9896-325b4571b41a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/class1bj/bj1000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class1bj/bj1001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class1bj/bj1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class1bj/bj1330.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class1bj/bj2438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class1bj/bj2475.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1bj/bj10171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1bj/bj10172.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1bj/bj10871.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1bj/bj10950.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1bj/bj10951.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1bj/bj2557.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1bj/bj2739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1bj/bj2741.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1bj/bj2753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class1bj/bj9498.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
